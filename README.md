@@ -16,7 +16,7 @@ Il percorso suggerito da noi è questo: arrivati alla stazione dei treni di Rove
 
 # Dove parcheggiare
 
-![Parcheggi](parcheggi.png)
+![Parcheggi](parcheggi.jpg)
 
 Ci sono due parcheggi vicino alla casetta, sono indicati qui:
 
