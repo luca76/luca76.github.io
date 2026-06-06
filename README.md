@@ -1,6 +1,6 @@
 # Indicazioni per la casetta del bosco della città di Rovereto
 
-![Test](casetta bosco città.jpeg)
+![Imamgine illustrativa](casetta bosco città.jpeg)
 
 # Data e ora dell'evento
 
@@ -15,6 +15,8 @@ Il percorso suggerito da noi è questo: arrivati alla stazione dei treni di Rove
 [Questo è il link a Google Maps con il percorso descritto](https://maps.app.goo.gl/BM73fRmyngVccybcA)
 
 # Dove parcheggiare
+
+![Parcheggi](parcheggi.png)
 
 Ci sono due parcheggi vicino alla casetta, sono indicati qui:
 
