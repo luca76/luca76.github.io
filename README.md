@@ -10,7 +10,7 @@ Sabato 13 giugno, dalle 12.00 in poi
 
 Si consiglia di non seguire le indicazioni suggerite di Google Maps, che fa passare da Volano.
 
-Il percorso suggerito da noi è questo: arrivati alla stazione dei treni di Rovereto, girare per via Rosmini e in fondo a questa via seguire le indicazioni per il Bosco della Città. [Questo è il link a Google Maps con il percorso descritto]([https://maps.app.goo.gl/RHa2V1eEWVfAwq5z8](https://maps.app.goo.gl/BM73fRmyngVccybcA))
+Il percorso suggerito da noi è questo: arrivati alla stazione dei treni di Rovereto, girare per via Rosmini e in fondo a questa via seguire le indicazioni per il Bosco della Città. [Questo è il link a Google Maps con il percorso descritto](https://maps.app.goo.gl/BM73fRmyngVccybcA)
 
 # Dove parcheggiare
 
